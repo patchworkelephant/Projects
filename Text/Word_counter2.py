@@ -1,3 +1,5 @@
+# Need to strip out punctuation somehow
+
 from collections import Counter
 
 filename = raw_input("What file do you want to count? ")
